@@ -20,6 +20,9 @@
     <ClCompile Include="..\..\source\insertion_sort.c">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="merge_sort.c">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\sort.h">
